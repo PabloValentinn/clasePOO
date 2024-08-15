@@ -6,3 +6,4 @@
 - p01_HolaMundo
 - p02_AreaCirculo
 - p03_AreaTriangulo
+- p04_PagaTrabajador 
