@@ -7,3 +7,8 @@
 - p02_AreaCirculo
 - p03_AreaTriangulo
 - p04_PagaTrabajador 
+
+## Actividad 2
+- p05_OperacionesMatematicas
+- p06_PromedioCalificaciones
+- p06_OperadoresAsignacion
