@@ -12,3 +12,6 @@
 - p05_OperacionesMatematicas
 - p06_PromedioCalificaciones
 - p06_OperadoresAsignacion
+- p07_OperadoresAsignacion
+- p08_FuncionesTrigonometricas
+- p09_DividirEnCifras
