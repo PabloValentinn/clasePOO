@@ -15,6 +15,7 @@
 - p07_OperadoresAsignacion
 - p08_FuncionesTrigonometricas
 - p09_DividirEnCifras
+
 ## Practica 1
 - p10_HipotenusaTriangulo
 - p11_CalcularAngulo
@@ -22,3 +23,10 @@
 - p13_VolumenCilindro
 - p14_CalculoTiempo
 - p15_ConvertirADolares
+
+## Practica 2
+- p16_TrabajandoEnteros
+- p17_TrabajandoFlotantes
+- p18_TrabajandoConstantes
+- p19_TrabajandoCaracteres
+- p20_ConversionTipos
