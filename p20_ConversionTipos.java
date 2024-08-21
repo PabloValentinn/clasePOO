@@ -6,7 +6,7 @@ public class p20_ConversionTipos {
     public static void main(String[] args) {
         // Conversión implicita: de pequeño a grande
         int var1 = 9;
-        double var2 = var1; // int a double
+        double var2 = var1; // int a double 
         float var3 = 123456.789f;
         double var4 = var3; // float a double
 

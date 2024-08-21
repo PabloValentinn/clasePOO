@@ -29,4 +29,10 @@
 - p17_TrabajandoFlotantes
 - p18_TrabajandoConstantes
 - p19_TrabajandoCaracteres
-- p20_ConversionTipos
+- p20_ConversionTipos 
+
+## Practica 3
+- p21_VerificarNumero
+- p22_VerificarSuma
+- p23_ConvertirTemperatura2
+- p24_PagaTrabajador2
