@@ -16,7 +16,7 @@
 - p08_FuncionesTrigonometricas
 - p09_DividirEnCifras
 
-## Practica 1
+## Practica 3
 - p10_HipotenusaTriangulo
 - p11_CalcularAngulo
 - p12_ConvertirTemperatura
@@ -24,15 +24,21 @@
 - p14_CalculoTiempo
 - p15_ConvertirADolares
 
-## Practica 2
+## Practica 4
 - p16_TrabajandoEnteros
 - p17_TrabajandoFlotantes
 - p18_TrabajandoConstantes
 - p19_TrabajandoCaracteres
 - p20_ConversionTipos 
 
-## Practica 3
+## Practica 6
 - p21_VerificarNumero
 - p22_VerificarSuma
 - p23_ConvertirTemperatura2
 - p24_PagaTrabajador2
+
+## Practica 6
+- p25_EstacionesAño
+- p26_TipoAngulo
+- p27_AceptarEstudiante 
+- p28_LeyDeNewton
