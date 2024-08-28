@@ -56,3 +56,10 @@
 - p36_CompraPizza
 - p37_CalculoNotas
 - p38_AceptarEstudiante-v2
+
+## Practica 9
+- p39_Numeros1a100
+- p40_Numeros100a1
+- p41_ProcesoCalificaciones
+- p42_TablaMultiplicar
+- p43_ConteoNumeros
