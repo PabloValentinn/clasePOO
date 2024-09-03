@@ -70,5 +70,11 @@
 - p46_TablaConversion
 - p47_ConjeturaCollatz
 
+## Practica 11
+- p48_ImparesAscendente
+- p49_ParesDescendentes
+- p50_ConversionTemperaturas
+- p51_SerieFibonaci
+
 
 
