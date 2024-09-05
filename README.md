@@ -76,12 +76,17 @@
 - p50_ConversionTemperaturas
 - p51_SerieFibonaci
 
-# Practica 12
+## Practica 12
 - p52_NumeroDe1aN
 - p53_NumerosNa1
 - p54_ArribaAbajo
 - p55_SumaParesImpares
 - p56_SumaPromedio
 
+## Practica 13
+- p57_TablasMultiplicar
+- p58_Piramide
+- p59_FactorialNumeros
+- p60_SumaTerminos
 
 
