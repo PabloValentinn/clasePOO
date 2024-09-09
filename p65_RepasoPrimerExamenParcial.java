@@ -6,7 +6,7 @@ resumen de ventas con un mensaje de acuerdo a la venta total */
 
 import java.util.Scanner;
 
-public class RepasoPrimerExamenParcial {
+public class p65_RepasoPrimerExamenParcial {
     public static void main(String[] args) {
         System.out.print("\033[H\033[2J"); System.out.flush();
 
