@@ -113,3 +113,17 @@
 - p73_SumaParesImpares
 - p74_Factorial
 - p75_CuadroCaracter
+
+# Practica 18
+- p76_NumeroMenor
+- p77_DiaDeLaSemana
+- p78_MedidasLongitud
+- p79_SumaMultiplos
+- p80_Angulo
+
+# Practica 19
+- p81_InicializaArregloNumeros
+- p82_InicializaArregloCadenas
+- p83_InicializaNombresEdades
+- p84_PromedioArreglo
+- p85_NombreEdades
