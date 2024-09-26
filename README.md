@@ -139,3 +139,9 @@
 - p91_MayoresPromedio
 - p92_MayorMenor
 - p93_ParesImpares
+
+# Practica 22
+- p94_Empleado01
+- p95_Empleado02
+- p96_Empleado03
+- p97_Empleado04
