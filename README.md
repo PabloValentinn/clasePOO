@@ -145,3 +145,8 @@
 - p95_Empleado02
 - p96_Empleado03
 - p97_Empleado04
+
+# Practica 23
+- p98_Circulo
+- p99_Rectangulo
+- p100_Articulo
