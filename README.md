@@ -159,3 +159,7 @@
 # Practica 25
 - p104_PuntoCirculo
 - p105_PuntoTriangulo
+
+# Practica 26
+- p106_Persona
+- p107_Forma
