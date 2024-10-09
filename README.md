@@ -163,3 +163,7 @@
 # Practica 26
 - p106_Persona
 - p107_Forma
+
+# Practica 27
+- p108_Vehiculo
+- p109_FormaV2
