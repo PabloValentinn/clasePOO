@@ -170,3 +170,6 @@
 
 # Practica 28
 - p110_CuentaBancariaV1
+
+# Practica 29
+- p111_CuentaBancariaV2
