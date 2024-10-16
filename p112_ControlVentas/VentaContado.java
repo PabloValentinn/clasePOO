@@ -1,26 +1,27 @@
 package p112_ControlVentas;
 
-public class VentaContado {
+public class VentaContado extends Venta {
     private double Descuento;
-    private double Regalo;
-    public VentaContado() {
-    }
-    public VentaContado(double descuento, double regalo) {
+    private String Regalo;
+    public VentaContado(String articulo, int cantidad, double precio, double descuento, String regalo) {
+        super(articulo, cantidad, precio);
         Descuento = descuento;
         Regalo = regalo;
     }
-    public double getDescuento() {
-        return Descuento;
+    @Override
+    public double getTotalVenta() {
+        Total = Total - (Total * Descuento);
+        return Total;
     }
-    public void setDescuento(double descuento) {
-        Descuento = descuento;
-    }
-    public double getRegalo() {
-        return Regalo;
-    }
-    public void setRegalo(double regalo) {
-        Regalo = regalo;
-    }
+    @Override
+    public String toString() {
+        return "VentaContado [" + super.toString() + "Descuento=" + Descuento + ", Regalo=" + Regalo + ", Total=" + getTotalVenta() + "]";
+    } 
+
+    
+
+    
+    
    
    
     
