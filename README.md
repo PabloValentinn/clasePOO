@@ -174,3 +174,6 @@
 # Practica 29
 - p111_CuentaBancariaV2
 - p112_ControlVentas
+
+# Practica 31
+- p113_SegundoExamenParcial
