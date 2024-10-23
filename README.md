@@ -177,3 +177,7 @@
 
 # Practica 31
 - p113_SegundoExamenParcial
+
+
+- p118_Calculadora
+- p119_Organismo

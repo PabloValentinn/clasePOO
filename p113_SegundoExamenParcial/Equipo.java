@@ -75,7 +75,7 @@ public class Equipo {
     }
     @Override
     public String toString() {
-        return "Equipo [Nombre=" + Nombre + ", Liga=" + Liga + ", Jugador=" + Jugador + "]";
+        return "Equipo [Nombre=" + Nombre + ", Liga=" + Liga + ", Jugador=" + Jugador.size() + "]";
     }
      
     

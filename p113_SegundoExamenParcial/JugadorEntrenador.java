@@ -12,7 +12,6 @@ public class JugadorEntrenador extends Jugador {
         Total = Salario + getBono();
     }
 
-    @Override
     public double getBono() {
         double Bono=0;
         Bono=(Salario * 0.15) + (Proyectos * 100)+ (Subordinados * 10);
@@ -21,9 +20,11 @@ public class JugadorEntrenador extends Jugador {
 
     @Override
     public String toString() {
-        return "JugadorEntrenador [" + super.toString() + " Subordinados=" + Subordinados + ", Proyectos=" + Proyectos + "]";
+        return "JugadorEntrenador [Subordinados=" + Subordinados + ", Proyectos=" + Proyectos + ", Total=" + Total
+                + ", getBono()=" + getBono() + "]";
     }
 
+   
     
 
    

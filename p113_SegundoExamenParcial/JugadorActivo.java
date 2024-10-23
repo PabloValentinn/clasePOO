@@ -1,7 +1,5 @@
 package p113_SegundoExamenParcial;
 
-import p110_CuentaBancariaV1.Banco;
-
 public class JugadorActivo extends Jugador {
     private int Partidos;
     private int Goles;
@@ -19,7 +17,7 @@ public class JugadorActivo extends Jugador {
     }
     @Override
     public String toString() {
-        return "JugadorActivo [" + super.toString()+ " Partidos=" + Partidos + ", Goles=" + Goles + ", total=" + Total + "]";
+        return "JugadorActivo [" + super.toString()+ " Partidos=" + Partidos + ", Goles=" + Goles + " getBonos= " + getBono() + ", total=" + Total + "]";
     }
    
     
