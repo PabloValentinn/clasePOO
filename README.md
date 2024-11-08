@@ -211,3 +211,8 @@
 - p137_ArchivoMunicipios
 - p138_ArchivoMaterias
 - p139_ArchivoEstudiante
+
+# Practica 38
+- p140_HolaMundoGUI
+- p141_AreaTrianguloGUI
+- p142_LeyDeNewtonGUI
