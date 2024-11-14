@@ -220,3 +220,6 @@
 # Practica 39
 - p143_PagaTrabjador
 - p144_Temperaturas
+
+# Tercer Examen 
+- package p147_TercerExamenParcial;
